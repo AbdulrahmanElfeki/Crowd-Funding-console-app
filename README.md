@@ -1,5 +1,5 @@
 # Crowd-Funding-console-app
-This repository contains python code to create a console app to start fundraise projects.
+This repository contains python code to create a console app to start fund raise projects.
 
 ## Overview
 ### Authentication System:
